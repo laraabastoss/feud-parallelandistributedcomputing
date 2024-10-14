@@ -2,7 +2,7 @@
 
 year 3, semestre 2
 
-## Final Grade: 196/20
+## Final Grade: 16/20
 
 ### Project 1 -  (Grade: 17/20)
 
