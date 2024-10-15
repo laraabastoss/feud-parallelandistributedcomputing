@@ -4,8 +4,9 @@ year 3, semestre 2
 
 ## Final Grade: 16/20
 
-### Project 1 -  (Grade: 17/20)
+### Project 1 -  Optimization in Matrix Multiplication (Grade: 17/20)
 
+Application of two different optimization techniques in the Matrix Multipliation algorithm. Firstly, we employed algorithms that minimize the number of cache misses and used different programming lanaguges to assess performance improvements. Secondly, we parallelized the best version found in the first part in two different ways andevaluated and discussed the results.
 
 **Technologies Used:** C++ and Java
 
